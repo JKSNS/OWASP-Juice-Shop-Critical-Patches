@@ -1,7 +1,7 @@
 
 ---
 
-# Vulnerability Remediation Report
+# Vulnerability Report
 
 ---
 
